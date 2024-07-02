@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashis Adhikari
+- 👋 Hi, I’m Ashis Adhikari
 - 👀 I’m interested in Physics, Condensed Matter Physics, Material Sciences and strong inclination towards Applied Quantum Tech
 - 🌱 I’m currently brushing my concepts on Quantum Mechanics, Classical Mechanics and Strongly correlated materials
 - 💞️ I’m looking to collaborate with people of similar interests, clearly the hardest part as I've AuDHD
